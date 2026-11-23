@@ -14,3 +14,7 @@
 * Compilador GCC instalado.
 
 ---
+
+```bash
+gcc main.c equipamentos.c -o prova -lm
+./prova
