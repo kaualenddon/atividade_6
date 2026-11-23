@@ -7,3 +7,10 @@
 **Professor:** Thommas K. S. Flores  
 
 ---
+
+## Como Compilar e Executar
+
+### Pré-requisitos
+* Compilador GCC instalado.
+
+---
